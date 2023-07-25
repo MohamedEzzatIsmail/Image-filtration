@@ -31,5 +31,5 @@ It`s a Image-Filtration project to edit and apply filters on photos using severa
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
